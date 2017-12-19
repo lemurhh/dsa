@@ -1,0 +1,131 @@
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: e
+
+Input the Num Of Data: 5
+Input the Data: 3 -3 0 1 2
+
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: b
+
+Input the Searched Data: 2
+-3 0 1 2 3 
+Loc: 4
+
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: s
+
+Input the Searched Data: 2
+Loc: 5
+
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: c
+
+Input the Num Of Data: 7
+Input the Data: 3 -3 0 1 2 9 5
+
+-3 0 1 2 3 5 9 
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: f
+
+Input the Searched Data: 9
+Found!
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: i
+
+Input the Data: 7
+
+-3 0 1 2 3 5 7 9 
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: d
+
+Input the Data: 2
+
+-3 0 1 3 5 7 9 
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: p
+
+
+-3 0 1 3 5 7 9 
+e,E  线性表创建
+s,S  顺序查找
+b,B  二分查找
+c,C  二叉排序树创建
+f,F  二叉排序树查找
+i,I  二叉排序插入
+d,D  二叉排序删除
+p,P  二叉排序输出
+q,Q  退出
+
+cmd: q   
