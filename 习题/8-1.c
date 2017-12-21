@@ -27,7 +27,7 @@ void Insert(SeqList *L, int num)
   if(Flag)
     Pos = num;
   else
-    Pos = Low;
+    Pos = Low;//找到了，则Low的位置（注意此时Low>High）就是待插入的位置，把包括Low在内的直到最后的所有元素向后移位，后在Low位置处插入num
   for(i=L->length-1; i>=Pos; i--)
       L->data[i+1] = L->data[i];
   L->data[Pos] = num;
